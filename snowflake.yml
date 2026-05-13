@@ -1,0 +1,9 @@
+definition_version: 1
+
+streamlit:
+  name: snowflake_smoothies
+  query_warehouse: COMPUTE_WH
+  main_file: streamlit_app.py
+
+artifacts:
+  - /
